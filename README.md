@@ -13,6 +13,7 @@ Should you add this to your current sum (keep extending your subarray)?
 
 Or is this number so good (or your current sum so bad) that it’s better to start fresh from here?
 
+
 ``` JavaScript
   // At each number, compare:
   tempSum + thisNumber   vs   thisNumber alone
