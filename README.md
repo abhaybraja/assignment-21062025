@@ -37,3 +37,22 @@ Every time your current sum beats that best total so update your max sum, and re
 ➡ Space Complexity: O(1) — No extra arrays; just a few variables.
 
 👉 So from an algorithmic perspective, there’s no faster big-O solution — because we must look at every element at least once.
+
+## Assignment 2: Django Templating and Variable Mapping
+
+1️. Create a Django project and app:
+
+```bash
+django-admin startproject django_tasks
+cd django_tasks
+```
+
+2. Run server:
+
+```bash
+python manage.py runserver
+```
+
+Visit: http://localhost:8000/
+
+
