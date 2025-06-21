@@ -25,3 +25,9 @@ Every time your current sum beats that best total so update your max sum, and re
 
 4️. Keep repeating this process to the end of the array.
 
+### Complexity
+➡ Time Complexity: O(n) — This is the best we can do for this problem.
+
+➡ Space Complexity: O(1) — No extra arrays; just a few variables.
+
+👉 So from an algorithmic perspective, there’s no faster big-O solution — because we must look at every element at least once.
