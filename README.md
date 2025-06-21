@@ -25,6 +25,12 @@ Every time your current sum beats that best total so update your max sum, and re
 
 4️. Keep repeating this process to the end of the array.
 
+### Run
+
+``` bash
+  node findMaxSum.js
+```
+
 ### Complexity
 ➡ Time Complexity: O(n) — This is the best we can do for this problem.
 
